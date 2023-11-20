@@ -4,3 +4,4 @@
 *.csv
 *.bib
 *.png
+.env
